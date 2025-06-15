@@ -12,7 +12,8 @@ Welcome to **2WatchM**, an intelligent movie recommendation platform built with 
 
 ## 📹 Demo Video
 
-▶️ [Watch the demo on YouTube]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://www.youtube.com/watch?v=xJjvpY8yuuw))
+▶️ [Watch the demo on YouTube]
+([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://www.youtube.com/watch?v=xJjvpY8yuuw))
 
 > In this video, we walk through the core features of 2WatchM, including user login, genre filtering, movie detail views, and personalized recommendations powered by TensorFlow Recommenders.
 
