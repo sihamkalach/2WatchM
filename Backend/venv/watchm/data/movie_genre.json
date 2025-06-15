@@ -1,0 +1,107 @@
+[
+    {
+        "id": 0,
+        "name": "Action",
+        "image": ""
+    },
+    {
+        "id": 1,
+        "name": "Adventure",
+        "image": ""
+    },
+    {
+        "id": 2,
+        "name": "Animation",
+        "image": ""
+    },
+    {
+        "id": 3,
+        "name": "Children",
+        "image": ""
+    },
+    {
+        "id": 4,
+        "name": "Comedy",
+        "image": ""
+    },
+    {
+        "id": 5,
+        "name": "Crime",
+        "image": ""
+    },
+    {
+        "id": 6,
+        "name": "Documentary",
+        "image": ""
+    },
+    {
+        "id": 7,
+        "name": "Drama",
+        "image": ""
+    },
+    {
+        "id": 8,
+        "name": "Fantasy",
+        "image": ""
+    },
+    {
+        "id": 9,
+        "name": "Film-Noir",
+        "image": ""
+    },
+    {
+        "id": 10,
+        "name": "Horror",
+        "image": ""
+    },
+    {
+        "id": 11,
+        "name": "IMAX",
+        "image": ""
+    },
+    {
+        "id": 12,
+        "name": "Musical",
+        "image": ""
+    },
+    {
+        "id": 13,
+        "name": "Mystery",
+        "image": ""
+    },
+    {
+        "id": 14,
+        "name": "Romance",
+        "image": ""
+    },
+    {
+        "id": 15,
+        "name": "Sci-Fi",
+        "image": ""
+    },
+    {
+        "id": 16,
+        "name": "Thriller",
+        "image": ""
+    },
+    {
+        "id": 17,
+        "name": "Unknown",
+        "image": ""
+    },
+    {
+        "id": 18,
+        "name": "War",
+        "image": ""
+    },
+    {
+        "id": 19,
+        "name": "Western",
+        "image": ""
+    },
+    {
+        "id": 20,
+        "name": "(no genres listed)",
+        "image": ""
+    }
+]

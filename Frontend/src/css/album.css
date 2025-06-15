@@ -1,0 +1,39 @@
+.image-container {
+    position: relative;
+    overflow: hidden; /* Empêche l'overlay de déborder */
+  }
+  
+  .image-container img {
+    transition: transform 0.3s ease; /* Ajout d'une légère animation de zoom */
+  }
+  
+  .image-container:hover img {
+    transform: scale(1.05); /* Zoom léger sur l'image */
+  }
+  
+  .image-container .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color:#050a30; /* Fond semi-transparent */
+    opacity: 0; /* Caché par défaut */
+    transition: opacity 0.3s ease; /* Apparition fluide */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .image-container:hover .overlay {
+    opacity: 1; /* Apparition de l'overlay au survol */
+    cursor: pointer;
+  }
+  
+  .image-container .overlay p {
+    margin: 10px;
+    font-size: 1.5rem;
+    text-align: center;
+    color:#c90000
+  }
+  

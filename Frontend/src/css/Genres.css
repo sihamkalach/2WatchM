@@ -1,0 +1,28 @@
+/* App.css or your global stylesheet */
+
+.custom-badge {
+  background-color: #12229d !important;
+  color: #f4f6fc !important;
+  font-weight: bold;
+  font-size: 1rem;
+  border-radius: 8px;
+}
+
+.custom-card {
+  background-color: #f4f6fc;
+  border: 1px solid #c90000;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.custom-card:hover {
+  transform: scale(1.03);
+  box-shadow: 0 0 20px rgba(201, 0, 0, 0.4);
+}
+
+.collection-title {
+  color:  #c90000;
+}
+
+.collection-description {
+  color: #cccccc;
+}
