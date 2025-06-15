@@ -6,7 +6,7 @@ Welcome to **2WatchM**, an intelligent movie recommendation platform built with 
 
 ## 📄 Full Project Report
 
-📝 [Click here to view the detailed project documentation (PDF)](./2watchm_report.pdf)
+📝 [Click here to view the detailed project documentation (PDF)](https://github.com/sihamkalach/2WatchM/blob/28db6c1a02671fd24148aaa5ed62c217641ccf4f/Movie%20Recommendation%20System.pdf)
 
 ---
 
