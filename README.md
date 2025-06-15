@@ -24,7 +24,10 @@ Welcome to **2WatchM**, an intelligent movie recommendation platform built with 
 - **Frontend**: React.js
 - **Backend**: Django + Django REST Framework
 - **Recommendation System**: TensorFlow Recommenders (TFRS)
-- **Database**: PostgreSQL / MongoDB (customizable)
+- **Database**: PostgreSQL 
 - **Dataset**: MovieLens + TMDb metadata enrichment
 
 ---
+## 📧 Contact
+
+For more information,send me an email : sihamkalach3@gmail.com
