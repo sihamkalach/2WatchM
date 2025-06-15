@@ -1,6 +1,7 @@
 # 🎬 2WatchM - Personalized Movie Recommendation System
 
 Welcome to **2WatchM**, an intelligent movie recommendation platform built with React, Django, and deep learning. This system provides personalized suggestions using a hybrid model of retrieval and ranking based on the MovieLens dataset.
+![Alt text](./media/your-image.png)
 
 ---
 
